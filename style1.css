@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+html,
+body {
+  font-size: 18px;
+}
+body {
+  margin: 0;
+  font-family: cursive;
+}
+.post {
+}
+.post__header {
+  position: absolute;
+  top: 0;
+  botton: 0;
+  width: 100%;
+  background-image: url('autumn-leaves.jpg');
+  position: fixed;
+  background-size: cover;
+  color: #
+}
+
+
+
+div.header h2 {
+color:#CC6666;
+}
+
+body{}
+div.bottom{
+border: 3px;
+border-style: solid;
+border-color: red;
+height:80vh;
+width:98.3vw;
+
+#box.{}
+
+#box.A {
+ width: 60%;
+ height: 500vh;
+ border-width: 0;
+ background-image: ('image/words.jpg');
+ border-color: red;}
+ float:left;
+}
+
+#box.B {
+  width: 60%;
+  height: 500vh
+  border-width: 0;
+  background-image: ('image/foods.jpg');
+  border-color: red;}
+  float:left;
+}
+.clear{
+  clear:both;
+}
